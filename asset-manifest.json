@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mr-Anas1/Quiz/static/css/main.773ec0ec.css",
+    "main.js": "/Mr-Anas1/Quiz/static/js/main.ef3f3b53.js",
+    "static/js/453.2b0627e5.chunk.js": "/Mr-Anas1/Quiz/static/js/453.2b0627e5.chunk.js",
+    "index.html": "/Mr-Anas1/Quiz/index.html",
+    "main.773ec0ec.css.map": "/Mr-Anas1/Quiz/static/css/main.773ec0ec.css.map",
+    "main.ef3f3b53.js.map": "/Mr-Anas1/Quiz/static/js/main.ef3f3b53.js.map",
+    "453.2b0627e5.chunk.js.map": "/Mr-Anas1/Quiz/static/js/453.2b0627e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.773ec0ec.css",
+    "static/js/main.ef3f3b53.js"
+  ]
+}
